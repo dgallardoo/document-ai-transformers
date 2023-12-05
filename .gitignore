@@ -130,3 +130,7 @@ dmypy.json
 data/
 
 process*
+
+# IDEs and Code Editors
+.vscode/
+.idea/
